@@ -32,7 +32,7 @@ Footer with app links, social icons, and contact details
 How to Run
 
 Download or clone the repository
-git clone https://github.com/your-username/meesho-clone.git
+git clone https://github.com/sanjana1203/meesho-clone.git
 
 Open the project folder
 Open index.html in any web browser
