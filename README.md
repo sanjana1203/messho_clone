@@ -1,45 +1,42 @@
 # messho_clone
-Meesho Clone (HTML & CSS)
+# Meesho Clone Using HTML & CSS
 
-A static Meesho e-commerce homepage clone built using pure HTML and CSS, focusing on layout structure, filters UI, and product grid design similar to the official Meesho website.
+This project is a **Meesho homepage clone** built using **HTML and CSS**.  
+It recreates the layout and visual design of the Meesho e-commerce platform, focusing on frontend structure, styling, and UI consistency.
 
-Project Description
+## Project Overview
 
-This project recreates the Meesho landing page, including the header with search bar, category navigation, product listings with filters, and footer. It is a frontend-only project created to practice real-world UI layout design.
+- **Type:** Frontend Web Development  
+- **Domain:** Web Design / UI Development  
+- **Technologies:** HTML, CSS  
+- **Project Focus:** UI layout and styling  
 
-Technologies Used
+The project emphasizes recreating a real-world e-commerce website interface using clean and structured frontend code.
 
-HTML5 – Structure and content
-CSS3 – Styling, Flexbox layouts, grid alignment, and UI spacing
+## Features
 
-Project Structure
-Meesho-Clone/
-│
-├── index.html     # Main HTML file
-├── style.css      # CSS styling file
-├── images/        # Images used in the UI
-└── README.md      # Project documentation
+- Header with logo, search bar, and user/cart icons  
+- Category navigation bar  
+- Promotional banners and brand sections  
+- Product listing area with filters and sorting UI  
+- Footer with company information and social links  
 
-Features
+## Technologies Used
 
-Meesho-style header with search bar and icons
-Category navigation menu
-Banner and promotional sections
-Product listing with filters panel
-Product grid with hover effects
-Footer with app links, social icons, and contact details
+- HTML5  
+- CSS3  
 
-How to Run
+## Applications
 
-Download or clone the repository
-git clone https://github.com/sanjana1203/meesho-clone.git
+- Frontend development practice  
+- E-commerce UI cloning projects  
+- Website layout and styling learning  
+- HTML & CSS portfolio projects  
 
-Open the project folder
-Open index.html in any web browser
+## Conclusion
 
-Learning Outcomes
+This project demonstrates strong frontend fundamentals by accurately recreating a modern e-commerce website layout using only HTML and CSS.
 
-Practiced complex layouts with Flexbox
-Learned filter-panel and product grid design
-Improved understanding of e-commerce UI structure
-Strengthened HTML & CSS fundamentals
+## Author
+
+**sanjana.h.k**
