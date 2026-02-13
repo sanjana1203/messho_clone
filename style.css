@@ -367,3 +367,156 @@
     height: 24px;
     cursor: pointer;
 }
+
+@media (max-width: 600px) {
+
+    .header {
+        flex-wrap: wrap;
+        padding: 12px 15px;
+        gap: 10px;
+    }
+
+    .search-box {
+        width: 100%;
+        margin-left: 0;
+        padding: 8px 12px;
+    }
+
+    .right-menu {
+        width: 100%;
+        justify-content: space-around;
+        margin-top: 10px;
+    }
+
+    .text-item {
+        padding: 0 10px;
+        font-size: 13px;
+    }
+
+    .icon-item img {
+        height: 32px;
+    }
+
+    .categories {
+        flex-wrap: wrap;
+        gap: 10px;
+        padding: 12px 15px;
+    }
+
+    .categories span {
+        font-size: 12px;
+    }
+
+    .section1 img {
+        width: 100%;
+    }
+
+    .info-bar {
+        flex-wrap: wrap;
+        width: 95%;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .info-item {
+        padding: 10px 0;
+        font-size: 12px;
+    }
+
+    .sec2 {
+        flex-wrap: wrap;
+        gap: 15px;
+        padding: 20px 15px;
+    }
+
+    .sec2 img {
+        width: 30%;
+    }
+
+    .sec3 img {
+        width: 100%;
+    }
+
+    .sec4 {
+        padding: 20px 15px;
+    }
+
+    .sec4 h4 {
+        font-size: 20px;
+    }
+
+    .sec4 div {
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .sec4 img {
+        width: 45%;
+    }
+
+    .sec5 img {
+        width: 100%;
+    }
+
+    .sec6 img {
+        width: 100%;
+    }
+
+    .section7 {
+        flex-direction: column;
+        padding: 20px 15px;
+        gap: 20px;
+    }
+
+    .filters-panel {
+        width: 100%;
+    }
+
+    .section-title {
+        font-size: 20px;
+    }
+
+    .products-area {
+        width: 100%;
+    }
+
+    .product-row {
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .product-row img {
+        width: 47%;
+    }
+
+    .meesho-footer {
+        padding: 30px 20px;
+    }
+
+    .footer-top {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .footer-col h3 {
+        font-size: 22px;
+    }
+
+    .footer-col h4 {
+        font-size: 13px;
+    }
+
+    .footer-col p {
+        font-size: 12px;
+    }
+
+    .app-buttons img {
+        width: 120px;
+    }
+
+    .social-icons img {
+        width: 20px;
+        height: 20px;
+    }
+
+}
